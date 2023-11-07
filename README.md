@@ -6,13 +6,13 @@
 <h3 align="center">A passionate Fullstack Website Developer and Active Student at University Singaperbangsa Karawang</h3>
 <br>
 
-- 🔭 I’m currently working on [Anniversary Bucin Web](https://github.com/fathanpr/tugaspraktikumpbw)
+- 🔭 I’m currently Internship on PT Century Batteries Indonesia
 
-- 🌱 I’m currently learning **JavaScript,PHP,Laravel**
+- 🌱 I’m currently learning **JavaScript,PHP,Codeigniter 4**
 
 - 📫 Email me at **maxtyo.17@gmail.com**
 
-- ⚡ Fun fact **I loved to play games on any platform and my motivation become a great web developer because the salary :)**
+- ⚡ Fun fact **I loved to play games on any platform and my motivation become a great web developer :)**
 
 <br>
 
