@@ -6,11 +6,11 @@
 <h3 align="center">A passionate Fullstack Website Developer and Active Student at University Singaperbangsa Karawang</h3>
 <br>
 
-- 🔭 I’m currently Internship on PT Century Batteries Indonesia
+- 🔭 I’m currently Working on PT Tri Centrum Fortuna as Software Developer
 
-- 🌱 I’m currently learning **JavaScript,PHP,Codeigniter 4**
+- 🌱 I’m currently learning **JavaScript,PHP,Laravel**
 
-- 📫 Email me at **maxtyo.17@gmail.com**
+- 📫 Email me at **fathanpebrilliestyoridwan@gmail.com**
 
 - ⚡ Fun fact **I loved to play games on any platform and my motivation become a great web developer :)**
 
